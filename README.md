@@ -1,11 +1,6 @@
+![monkey]([https://user-images.githubusercontent.com/72889363/195391283-2d65d0c8-0ad7-48d0-af1b-ea6c5abb2efe.gif](https://c.tenor.com/ID330aNwSHAAAAAM/y3ongi-monkey.gif))
 
- <img align="left" height="200" src="https://c.tenor.com/ID330aNwSHAAAAAM/y3ongi-monkey.gif"  />
 
-###
-
-<img align="right" height="200" src="https://steamuserimages-a.akamaihd.net/ugc/1772699084880889190/572F3011CAED1377EDE7B0C29FD58871A2DA26B9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-
-###
 
 <h1 align="center">Hello I'm Šimon Rosenbaum</h1>
 <h3 align="center">node enjoyer, monkey enthusiast</h3>
