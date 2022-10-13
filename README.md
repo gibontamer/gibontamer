@@ -1,7 +1,13 @@
 <h1 align="center">Hello I'm Šimon Rosenbaum</h1>
-<h3 align="center">MERN enjoyer, monkey enthusiast</h3>
+<h3 align="center">node enjoyer, monkey enthusiast</h3>
 
+- 🌱 I’m currently learning **Redux, Typescript**
 
+- 💬 Ask me about **monkeys, react, adderall**
+
+- 📫 How to reach me **simon.rosenbaum@student.spsmb.cz**
+
+- ⚡ Fun fact **Undiagnosed ADHD also probably autism** 
 <div align="center">
   <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/1772699084880889190/572F3011CAED1377EDE7B0C29FD58871A2DA26B9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
