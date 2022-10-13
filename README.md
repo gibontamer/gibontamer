@@ -1,6 +1,7 @@
-![monkey](https://steamuserimages-a.akamaihd.net/ugc/1772699084880889190/572F3011CAED1377EDE7B0C29FD58871A2DA26B9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-
-![monkey](https://steamuserimages-a.akamaihd.net/ugc/1772699084880889190/572F3011CAED1377EDE7B0C29FD58871A2DA26B9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1772699084880889190/572F3011CAED1377EDE7B0C29FD58871A2DA26B9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
+" alt="Sublime's custom image"/>
+</p>
 
 <h1 align="center">Hello I'm Šimon Rosenbaum</h1>
 <h3 align="center">node enjoyer, monkey enthusiast</h3>
