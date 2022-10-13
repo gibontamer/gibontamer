@@ -1,4 +1,4 @@
-![monkey]([https://user-images.githubusercontent.com/72889363/195391283-2d65d0c8-0ad7-48d0-af1b-ea6c5abb2efe.gif](https://c.tenor.com/ID330aNwSHAAAAAM/y3ongi-monkey.gif))
+![monkey]([https://c.tenor.com/ID330aNwSHAAAAAM/y3ongi-monkey.gif])
 
 
 
