@@ -1,13 +1,13 @@
 <h1 align="center">Hello I'm Šimon Rosenbaum</h1>
 <h3 align="center">node enjoyer, monkey enthusiast</h3>
 
-<div align="center">
+<div>
   <img height="200" src="https://www.myanmars.net/images/myanmar_snub_nose_monkey.jpg"  />
 </div>
 
 ###
 
-<img align="left" height="200" src="https://steamuserimages-a.akamaihd.net/ugc/1772699084880889190/572F3011CAED1377EDE7B0C29FD58871A2DA26B9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<img  height="200" src="https://steamuserimages-a.akamaihd.net/ugc/1772699084880889190/572F3011CAED1377EDE7B0C29FD58871A2DA26B9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 ###
