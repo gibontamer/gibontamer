@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **Redux, Typescript**
+- 🌱 I’m currently learning **nextjs**
 
-- 💬 Ask me about **monkeys, React, Adderall, NodeJS**
+- 💬 Ask me about **monkeys, React, Adderall, nodejs**
 
 - 📫 How to reach me **simon.rosenbaum@student.spsmb.cz**
 
