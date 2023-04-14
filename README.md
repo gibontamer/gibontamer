@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently learning **nextjs**
 
-- 💬 Ask me about **monkeys, React, Adderall, nodejs**
 
 - 📫 How to reach me **simon.rosenbaum@student.spsmb.cz**
 
-- ⚡ Fun fact **Undiagnosed ADHD also probably autism** 
 
 
 ###
