@@ -6,13 +6,7 @@
 <h3 align="center">node enjoyer, monkey enthusiast</h3>
 
 
-
-
-- 🌱 I’m currently learning **nextjs**
-
-
 - 📫 How to reach me **simon.rosenbaum@student.spsmb.cz**
-
 
 
 ###
